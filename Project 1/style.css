@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F9F5ED;
+}
+.navbar-container{
+    padding: 20px 10%;
+    height: 15vh;
+}
+.navbar-container ul{
+    display: flex;
+    align-items: center;
+}
+.navbar-container ul li{
+    list-style: none;
+    margin-right: 5%;
+    font-weight: 500;
+}
+Main{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-left: 10%;
+}
+.section1{
+    width: 40%;
+}
+.section2{
+    width: 60%;
+    margin-left: 12.5%;
+}
+.section1 h1{
+    font-size: 67px;
+}
+.section1 p{
+    margin: 5% 0;
+}
+.section1 .btn1{
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: #3b855b;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+.section2 div img{
+    padding: 10px;
+}
+
